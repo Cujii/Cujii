@@ -1,13 +1,10 @@
-<h1 align="center">🌿 Méadbh MacCollum 🌿</h1>
+<h1 align="center">🌿 Cujis Landing Page 🌿</h1>
 
 ###
 
 
 <div align='centre'>
-    <p>
-    I am a current PhD student, finishing up a project in low mass dwarf star flare detection using All-Sky surveys (in this case, the <a href="https://atlas.fallingstar.com/">ATLAS</a> and <a href="https://outerspace.stsci.edu/display/PANSTARRS/">PanStarrs</a> systems). This work has been made up largely of writing my own custom pipeline in python and jupyter to process time series data from the telescopes and apply analysis to them in order to flag flares, and estimate their important physical properties.<br>
-    On top of my academic work, my own personal interests are broad, mainly focusing on Time Series analysis, Geospatial Information Systems, Exploratory Data Analysis, and recently, have been gaining more experience with machine learning. Lately, my attention has been driven more towards the importance and utility of data in combating climate change, and hope to grow my skillset by putting it to the test on the issues now being posed more frequently from the climate crisis.
-    </p>
+    <p></p>
 
 </div>
 
@@ -16,11 +13,11 @@
 
 <h2>📊 Profile Stats 📊</h2>
   
-![MattMacCollum's Stats](https://github-readme-stats.vercel.app/api?username=MattMacCollum&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Cujis Stats](https://github-readme-stats.vercel.app/api?username=MattMacCollum&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-  ![MattMacCollum's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MattMacCollum&theme=vue-dark&hide_border=true)
+  ![Cujis Streak](https://github-readme-streak-stats.herokuapp.com/?user=MattMacCollum&theme=vue-dark&hide_border=true)
 
-  ![MattMacCollum's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MattMacCollum&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  ![Cujis Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MattMacCollum&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
@@ -95,9 +92,8 @@
 <div align="center">
     <h2 align='center'>Contact Links</h2>
       <a href="https://discord.app/users/271370177638039552"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/></a>
-      <a href="mailto:mmccollum066@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
-      <a href="https://www.linkedin.com/in/matt-m-b58a45138/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
-
+      <a href="mailto:cujii@proton.me"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
+     
 </div>
 
 ###
