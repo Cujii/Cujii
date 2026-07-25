@@ -13,9 +13,9 @@
 
 <h2>📊 Profile Stats 📊</h2>
   
-![Cujis Stats](https://github-readme-stats.vercel.app/api?username=MattMacCollum&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Cujis Stats](https://github-readme-stats.vercel.app/api?username=Cujii&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-  ![Cujis Streak](https://github-readme-streak-stats.herokuapp.com/?user=MattMacCollum&theme=vue-dark&hide_border=true)
+  ![Cujis Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cujii&theme=vue-dark&hide_border=true)
 
   ![Cujis Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cujii&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
