@@ -15,7 +15,7 @@
   
 ![Cujis Stats](https://ghstats.dev/api/card?username=cujii&hide_border=true&custom_title=Cujiis+Stats)
 
-![Cujis Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cujii&theme=vue-dark&hide_border=true)
+[![Cujis Streak](https://streak-stats.demolab.com/?user=cujii)](https://git.io/streak-stats)
 
 [![Cujis Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cujii&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
