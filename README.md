@@ -13,7 +13,7 @@
 
 <h2>📊 Profile Stats 📊</h2>
   
-![Cujis Stats](https://github-readme-stats.vercel.app/api?username=Cujii&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Cujis Stats]([https://github-readme-stats.vercel.app/api?username=Cujii&theme=vue-dark&show_icons=true&hide_border=true&count_private=true](https://ghstats.dev/api/card?username=cujii&hide_border=true&custom_title=Cujiis+Stats))
 
 ![Cujis Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cujii&theme=vue-dark&hide_border=true)
 
