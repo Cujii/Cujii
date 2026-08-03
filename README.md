@@ -15,9 +15,10 @@
   
 ![Cuji's Stats](https://ghstats.dev/api/card?username=cujii&hide_border=true&custom_title=Cujiis+Stats)
 
+[![Cuji's Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Cujii&layout=donut-vertical&langs_count=10&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Cujii&layout=donut-vertical&langs_count=10&theme=transparent)
+
 [![Cuji's Streak](https://streak-stats.demolab.com?user=cujii&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
-[![Cuji's Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Cujii&layout=donut-vertical&langs_count=10&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Cujii&layout=donut-vertical&langs_count=10&theme=transparent)
 
 </div>
 
