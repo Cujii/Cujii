@@ -15,9 +15,9 @@
   
 ![Cujis Stats](https://ghstats.dev/api/card?username=cujii&hide_border=true&custom_title=Cujiis+Stats)
 
-[![Cujis Streak](https://streak-stats.demolab.com/?user=cujii)](https://git.io/streak-stats)
+[![Cujis Streak](https://streak-stats.demolab.com/?user=cujii)]
 
-![Cujis Top Languages](https://your-deployment-url.vercel.app/api/languages)
+[![Cujis Top Languages](https://your-deployment-url.vercel.app/api/languages)]
   
 </div>
 
