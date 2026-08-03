@@ -17,8 +17,7 @@
 
 [![Cujis Streak](https://streak-stats.demolab.com/?user=cujii)](https://git.io/streak-stats)
 
-[![Cujis Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cujii&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Cujis Top Languages](https://your-deployment-url.vercel.app/api/languages)
   
 </div>
 
